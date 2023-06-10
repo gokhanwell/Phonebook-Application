@@ -124,7 +124,7 @@ phonebook-web-application (folder)
 
 ## Expected Outcome
 
-![Phonebook App Search Page](./phonebook-application.png)
+![Phonebook App Search Page](./phonebook-application-project.png)
 
 ### At the end of the project, following topics are to be covered;
 
